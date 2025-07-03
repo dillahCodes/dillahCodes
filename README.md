@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/readme_header.png "Header")](https://martinheinz.dev/)
 
 # Hello, Coder! <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/wave.gif" width="30px" height="30px" />
 
@@ -57,7 +57,7 @@ A sample of my recent articles:
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
+[1.1]: https://imgur.com/tXSoThF "twitter icon with padding"
 [2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
 
 <!-- icons without padding -->
