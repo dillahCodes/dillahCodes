@@ -10,19 +10,19 @@ I'm from Indonesia, currently living in Tangerang.
 You can find me on:
 
 <p>
-  <a href="https://www.instagram.com/dillah.codes">
+  <a href="https://www.instagram.com/dillah.codes" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/ig.png" width="20" height="18"/>
   </a>
-  <a href="https://github.com/dillahCodes">
+  <a href="https://github.com/dillahCodes" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/GitHub.png" width="20"/>
   </a>
-  <a href="https://www.linkedin.com/in/abdillahjuniansyah">
+  <a href="https://www.linkedin.com/in/abdillahjuniansyah" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/linkedn.png" width="20"/>
   </a>
-  <a href="https://www.threads.net/@dillah.codes">
+  <a href="https://www.threads.net/@dillah.codes" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/threads.png" width="20"  height="18"/>
   </a>
-  <a href="https://www.tiktok.com/@dillah.codes">
+  <a href="https://www.tiktok.com/@dillah.codes" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/tiktok.png" width="20"/>
   </a>
 </p>
