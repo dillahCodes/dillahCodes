@@ -7,12 +7,25 @@
 My name is Abdillah Juniansyah and I'm a Fullstack Developer & Software Engineer Enthusiast.  
 I'm from Indonesia, currently living in Tangerang.
 
-You can find me on:  
-[![Instagram][1.1]][1]
-[![GitHub][2.1]][2]
-[![LinkedIn][3.1]][3]
-[![Threads][4.1]][4]
-[![TikTok][5.1]][5]
+You can find me on:
+
+<p>
+  <a href="https://www.instagram.com/dillah.codes">
+    <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/ig.png" width="20" height="18"/>
+  </a>
+  <a href="https://github.com/dillahCodes">
+    <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/Github.png" width="20"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdillahjuniansyah">
+    <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/linkedn.png" width="20"/>
+  </a>
+  <a href="https://www.threads.net/@dillah.codes">
+    <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/threads.png" width="20"  height="18"/>
+  </a>
+  <a href="https://www.tiktok.com/@dillah.codes">
+    <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/tiktok.png" width="20"/>
+  </a>
+</p>
 
 ## 🔧 Technologies & Tools
 
