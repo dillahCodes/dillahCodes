@@ -4,7 +4,11 @@
 
 # Hello, Coder! <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/wave.gif" width="30px" height="30px" />
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Abdillah Juniansyah and I'm a Fullstack Developer & Software Engineer Enthusiast.  
+I'm from Indonesia, currently living in Tangerang.
+
+You can find me on:  
+[![Instagram][1.1]][1] [![LinkedIn][3.1]][3]
 
 ## 🔧 Technologies & Tools
 
@@ -55,22 +59,21 @@ A sample of my recent articles:
 
 <!-- links to social media icons -->
 
-<!-- icons with padding -->
-
-[1.1]: https://imgur.com/tXSoThF "twitter icon with padding"
-[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
-
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
-[2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
+[1.1]: https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/ig.png
+[2.1]: https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/github.png
+[3.1]: https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/linkedn.png
+[4.1]: https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/threads.png
+[5.1]: https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/tiktok.png
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.instagram.com/dillah.codes
+[2]: https://github.com/dillahCodes
+[3]: https://www.linkedin.com/in/abdillahjuniansyah
+[4]: https://www.threads.net/@dillah.codes
+[5]: https://www.tiktok.com/@dillah.codes
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
