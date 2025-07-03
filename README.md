@@ -14,7 +14,7 @@ You can find me on:
     <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/ig.png" width="20" height="18"/>
   </a>
   <a href="https://github.com/dillahCodes">
-    <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/Github.png" width="20"/>
+    <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/GitHub.png" width="20"/>
   </a>
   <a href="https://www.linkedin.com/in/abdillahjuniansyah">
     <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/linkedn.png" width="20"/>
