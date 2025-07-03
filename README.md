@@ -8,7 +8,11 @@ My name is Abdillah Juniansyah and I'm a Fullstack Developer & Software Engineer
 I'm from Indonesia, currently living in Tangerang.
 
 You can find me on:  
-[![Instagram][1.1]][1] [![LinkedIn][3.1]][3]
+[![Instagram][1.1]][1]
+[![GitHub][2.1]][2]
+[![LinkedIn][3.1]][3]
+[![Threads][4.1]][4]
+[![TikTok][5.1]][5]
 
 ## 🔧 Technologies & Tools
 
