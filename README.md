@@ -7,26 +7,6 @@
 My name is Abdillah Juniansyah and I'm a Fullstack Developer & Software Engineer Enthusiast.  
 I'm from Indonesia, currently living in Tangerang.
 
-You can find me on:
-
-<p>
-  <a href="https://www.instagram.com/dillah.codes" style="text-decoration:none">
-    <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/ig.png" width="20" height="18"/>
-  </a>
-  <a href="https://github.com/dillahCodes" style="text-decoration:none">
-    <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/GitHub.png" width="20"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdillahjuniansyah" style="text-decoration:none">
-    <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/linkedn.png" width="20"/>
-  </a>
-  <a href="https://www.threads.net/@dillah.codes" style="text-decoration:none">
-    <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/threads.png" width="20"  height="18"/>
-  </a>
-  <a href="https://www.tiktok.com/@dillah.codes" style="text-decoration:none">
-    <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/tiktok.png" width="20"/>
-  </a>
-</p>
-
 ## 🔧 Technologies & Tools
 
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF&labelColor=black)
@@ -49,50 +29,3 @@ You can find me on:
 ![Radix UI](https://img.shields.io/badge/Radix%20UI-000000?style=for-the-badge&logo=radixui&logoColor=FFFFFF&labelColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=black)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/dillahCodes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dillahCodes&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/dillahCodes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dillahCodes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abdillah's GitHub Stats" />
-</a>
-
-<a href="https://github.com/dillahCodes/cloud-storage-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dillahCodes&repo=cloud-storage-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/dillahCodes/firebase-react-redux-blog-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dillahCodes&repo=firebase-react-redux-blog-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/Yuefii/NusantaraKita">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuefii&repo=NusantaraKita&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<!-- links to social media icons -->
-
-<!-- icons without padding -->
-
-[1.1]: https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/ig.png
-[2.1]: https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/github.png
-[3.1]: https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/linkedn.png
-[4.1]: https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/threads.png
-[5.1]: https://raw.githubusercontent.com/dillahCodes/dillahCodes/master/tiktok.png
-
-<!-- links to your social media accounts -->
-
-[1]: https://www.instagram.com/dillah.codes
-[2]: https://github.com/dillahCodes
-[3]: https://www.linkedin.com/in/abdillahjuniansyah
-[4]: https://www.threads.net/@dillah.codes
-[5]: https://www.tiktok.com/@dillah.codes
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
