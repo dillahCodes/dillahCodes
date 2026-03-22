@@ -29,3 +29,5 @@ I'm from Indonesia, currently living in Tangerang.
 ![Radix UI](https://img.shields.io/badge/Radix%20UI-000000?style=for-the-badge&logo=radixui&logoColor=FFFFFF&labelColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=black)
