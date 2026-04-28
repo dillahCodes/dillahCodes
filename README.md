@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
-# Hello, coder! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, coder! <img src="https://raw.githubusercontent.com/dillahCodes/dillahCodes/main/assets/wave.gif" width="30px" height="30px" />
 
 My name is **Abdillah Juniansyah (DillahCodes)**, and I'm a Full-Stack Software Engineer & Web Developer based in Indonesia.
 
